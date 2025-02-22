@@ -34,7 +34,7 @@ def run_function():
 
 # Create main window
 root = tk.Tk()
-root.title("IP Address Validator")
+root.title("IP Selector")
 root.geometry("500x400")  # Adjusted for log space
 root.resizable(False, False)
 root.configure(bg="#f4f4f9")
